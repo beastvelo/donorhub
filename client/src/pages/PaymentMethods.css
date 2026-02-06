@@ -1,0 +1,3 @@
+.payment-methods-page { width: 100%; }
+.methods-list { display: flex; flex-direction: column; gap: 12px; }
+.method-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; display: flex; justify-content: space-between; align-items: center; }

@@ -1,0 +1,5 @@
+.thank-you-letters-page { width: 100%; }
+.letter-templates { display: flex; flex-direction: column; gap: 16px; }
+.letter-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+.letter-card h3 { font-size: 1rem; margin-bottom: 4px; }
+.letter-meta { font-size: 0.85rem; color: var(--text-secondary); }

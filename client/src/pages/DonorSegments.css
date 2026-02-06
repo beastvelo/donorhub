@@ -1,0 +1,6 @@
+.donor-segments-page { width: 100%; }
+.segments-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 20px; }
+.segment-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+.segment-card h3 { font-size: 1rem; margin-bottom: 8px; }
+.segment-count { font-size: 0.9rem; color: var(--accent); display: block; margin-bottom: 4px; }
+.segment-value { font-size: 0.8rem; color: var(--text-secondary); }

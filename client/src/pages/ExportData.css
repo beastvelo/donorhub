@@ -1,0 +1,5 @@
+.export-data-page { width: 100%; }
+.export-options { display: flex; flex-direction: column; gap: 16px; }
+.export-option { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; display: flex; justify-content: space-between; align-items: center; }
+.export-option h3 { font-size: 1rem; margin-bottom: 4px; }
+.export-option p { font-size: 0.85rem; color: var(--text-secondary); }

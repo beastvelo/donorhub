@@ -1,0 +1,5 @@
+.campaign-analytics-page { width: 100%; }
+.analytics-cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.analytics-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+.a-label { display: block; font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 8px; }
+.a-value { font-size: 1.5rem; font-weight: 700; }

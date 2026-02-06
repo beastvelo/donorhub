@@ -1,0 +1,6 @@
+.fundraising-goals { width: 100%; }
+.goals-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+.goal-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+.goal-card h3 { font-size: 1rem; margin-bottom: 12px; color: var(--text-secondary); }
+.goal-value { font-size: 1.5rem; font-weight: 700; display: block; margin-bottom: 16px; }
+.goal-progress { font-size: 0.85rem; color: var(--text-secondary); margin-top: 8px; display: block; }

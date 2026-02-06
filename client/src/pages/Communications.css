@@ -1,0 +1,7 @@
+.communications-page { width: 100%; }
+.comm-list { display: flex; flex-direction: column; gap: 16px; }
+.comm-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; display: flex; justify-content: space-between; align-items: center; }
+.comm-card h3 { font-size: 1rem; margin-bottom: 4px; }
+.comm-meta { font-size: 0.85rem; color: var(--text-secondary); }
+.comm-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }
+.comm-stat { color: var(--accent); font-weight: 600; font-size: 0.9rem; }

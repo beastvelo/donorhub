@@ -1,0 +1,7 @@
+.integrations-page { width: 100%; }
+.integrations-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+.integration-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+.integration-card h3 { font-size: 1rem; margin-bottom: 8px; }
+.integration-card p { font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 16px; }
+.status-pill { font-size: 0.8rem; padding: 6px 12px; border-radius: 8px; background: var(--bg-secondary); color: var(--text-secondary); }
+.status-pill.connected { background: rgba(34,197,94,0.2); color: var(--accent); }
